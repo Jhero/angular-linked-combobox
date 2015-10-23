@@ -1,0 +1,22 @@
+[
+    {
+        "countryId" : "ID",
+        "cityId" : "JG",
+        "cityName" : "Yogyakarta"
+    },
+    {
+        "countryId" : "ID",
+        "cityId" : "JT",
+        "cityName" : "Jakarta"
+    },
+    {
+        "countryId" : "US",
+        "cityId" : "NY",
+        "cityName" : "New York"
+    },
+    {
+        "countryId" : "US",
+        "cityId" : "CH",
+        "cityName" : "Chicago"
+    }
+]
